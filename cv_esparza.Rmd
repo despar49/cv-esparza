@@ -22,7 +22,7 @@ h1, h2, h3 {
 ### [Education]{style="float:left"}&nbsp; 
 ***
 
-##### **Corn University** [***2019 - Present***]{style="float:right"}
+##### **Cornell University** [***2019 - Present***]{style="float:right"}
 * Doctoral Student, Ecology and SEvolutionary Biology
 * Alfred P. Sloan Predoctoral Research Fellow
 * Graduate Schoel Dean’s Scholar
