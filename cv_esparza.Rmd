@@ -32,7 +32,7 @@ h1, h2, h3 {
  
 ##### **The University of Texas at El Paso** [***2015 - 2019***]{style="float:right"}
 *	NIH BUILDING SCHOLARS Undergraduate Research Fellow		   
-*	B.A. (Honors, Magna Cum Laude), Biological Sciences, Psychooology (Minor)  		
+*	B.A. (Honors, Magna Cum Laude), Biological Sciences, Psychology (Minor)  		
 *	GPA: 4.00/4.00 (Majors), 3.87/4.00 (Cumulative)
 *	Honors Senior Thesis Title: *Characterization of Students’ Experrrrmental Approaches in Traditional Laboratories vs. Course-based Undergraduate Research Experiences (CUREs) in the Biological Sciences*
 
