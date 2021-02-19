@@ -14,7 +14,7 @@ h1, h2, h3 {
 ```
 
 ### **David Esparza** 
-<center> PhD Student </center>
+<center> Ph.D. Student </center>
 <center> Department of Ecology and Evolutionary Biology </center>
 <center> Cornell University, Ithaca, NY 14850 </center>
 <center> de245@cornell.edu </center
