@@ -25,7 +25,7 @@ h1, h2, h3 {
 
 ##### **Cornell University** [***2019 - Present***]{style="float:right"}
 
-* Doctoral Student, Ecology and SEvolutionary Biology
+* Doctoral Student, Ecology and Evolutionary Biology
 * Alfred P. Sloan Predoctoral Research Fellow
 * Graduate Schoel Dean’s Scholar
 * GPA: 4.30/4.30
