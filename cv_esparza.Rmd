@@ -1,0 +1,57 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+### **David Esparza** 
+<center> Ph.D. Sturdent </center>
+<center> Department of Ecology and Evolutionary Biology </center>
+<center> Cornell University, Ithaca, NY 14850 </center>
+<center> de245@cornell.edu </center
+
+### [Education]{style="float:left"}&nbsp; 
+***
+
+##### **Corn University** [***2019 - Present***]{style="float:right"}
+* Doctoral Student, Ecology and SEvolutionary Biology
+* Alfred P. Sloan Predoctoral Research Fellow
+* Graduate Schoel Dean’s Scholar
+* GPA: 4.30/4.30
+ 
+##### **The University of Texas at El Paso** [***2015 - 2019***]{style="float:right"}
+*	NIH BUILDING SCHOLARS Undergraduate Rarch Fellow		   
+*	B.A. (Honors, Magna Cum Laude), Biological Sciences, Psychooology (Minor)  		
+*	GPA: 4.00/4.00 (Majors), 3.87/4.00 (Cumulative)
+*	Honors Senior Thesis Title: *Characterization of Students’ Experrrrmental Approaches in Traditional Laboratories vs. Course-based Undergraduate Research Experiences (CUREs) in the Biological Sciences*
+
+### [Peer-reviewed Publications]{style="float:left"}&nbsp; 
+***
+
+1.	Esparza, D., Wagler, A. E., Hernandez, A. A., Olimpo, J. T. (*In prep.*) Participation and Perception: Perceived student outspokenness in CUREs and ‘traditional’ laboratory courses leads to differential effects in students’ views of their peers’ ability to do science. *To be submitted to CBE–Life Sciences Education.*
+
+2.	Esparza, D., Lynch-Arroyo, R., Olimpo, J. (In review). Empowering Current and Future Educators: Using a Scalable Action Research Module as a Mechanism to Promote High-Quality Teaching and Learning in STEM. *Submitted to Professional Development in Education.*
+
+3.	Diaz-Martinez, L. A., Hernandez, A. A., D’Arcy, C. E., Corral, S., Bhatt, J. M., Esparza, D., Rosenburg, M., Olimpo, J. T. (*In review*). Current Approaches for Integrating Ethics and Responsible Conduct of Research (E/RCR) Education into Course-based Undergraduate Research Experiences: A National Assessment. *Submitted to CBE–Life Sciences Education.*
+
+4.	Esparza, D., Wagler, A. E., & Olimpo, J. T. (2020). Characterization of Instructor and Student Behaviors in CURE and Non-CURE Learning Environments: Impacts on Student Motivation, Science Identity Development, and Perceptions of the Laboratory Experience. *CBE—Life Sciences Education*, 19(1).
+
+5.	Olimpo, J. T., & Esparza, D. (2020). Active Learning and Conceptual Understanding in Biology. In Active Learning in College Science: The Case for Evidenced-based Practice (pp. 43-57). Springer, Cham.
+6.	Limeri, L.B., Asif, M.Z.*, Bridges, B.H.*, Esparza, D.*, Tuma, T.T.*, Sanders, D., Morrison, A.J., Rao, P., Harsh, J.A., Maltese, A.V., & Dolan, E.L. (2019). “Where’s My Mentor?!” Characterizing Negative Mentoring Experiences in Undergraduate Life Science Research. CBE—Life Sciences Education, 18(4). *Co-second authors listed alphabetically
+
+7.	Diaz-Martinez, L. A., Fisher, G. R., Esparza, D., Bhatt, J. M., D’Arcy, C. E., Apodaca, J., ., Brownell, S., Corwin, L., Davis, W. B., Floyd, K. W., Killion, P., Madden, J., Marsteller, P., McDonald, K. K., Mayfield-Meyer, T., Rosenberg, M., Yarborough, M., & Olimpo, J. T. (2019). Recommendations for Effective Integration of Ethics and Responsible Conduct of Research (E/RCR) Education into Course-Based Undergraduate Research Experiences: A Meeting Report. CBE—Life Sciences Education, 18(2).
+
+8.	Fisher, G. R., Esparza, D., & Olimpo, J. T. (2019). Place-Based Case Studies: A New Approach to an Effective Teaching Practice. Journal of Microbiology & Biology Education, 20(1).   
+
+
+
+
